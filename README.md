@@ -20,13 +20,11 @@
 
 ### Languages
 
-#### Back-end
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/ArthurSMA)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/ArthurSMA)
-#### Front-End
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ArthurSMA)
-#### Others
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/ArthurSMA)
+
 #### Databases
 
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server)
