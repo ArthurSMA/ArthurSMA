@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Olá! Eu sou Arthur Suassuna <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <div align="center">
     <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=ArthurSMA&show_icons=true&theme=dark">
@@ -6,9 +6,8 @@
 
 <p align="center">
     <i>
-        I'm from Brazil 🇧🇷. <br>
-        My name is Arthur Suassuna.<br>
-        I seek to improve my knowledge and learn more and more languages of program.<br>
+        Sou de João Pessoa Brazil 🇧🇷. <br>
+        No momento estou focado em melhorar meus conhecimentos.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/arthur-suassuna-178507212/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
