@@ -38,8 +38,4 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/ArthurSMA)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/ArthurSMA)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSMA&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/ArthurSMA/github-readme-stats)
-
 </div>
