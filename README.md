@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou Arthur Suassuna <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurSMA&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursma&layout=compact&theme=dark">
 </div>
 
