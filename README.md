@@ -15,6 +15,7 @@
 [![HTML5](https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5)](https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=css&sort=)
 [![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/ArthurSMA)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=javascript&sort=)
+
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ArthurSMA)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ArthurSMA)
