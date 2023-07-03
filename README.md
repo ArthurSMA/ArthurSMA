@@ -1,4 +1,4 @@
-<h1 align="center">I'm Arthur Suassuna and this is my git page. Hi! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">Hi! I'm Arthur Suassuna and this is my git page.</h1>
 
 <div align="center">
 
