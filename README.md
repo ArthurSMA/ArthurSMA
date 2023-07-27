@@ -14,7 +14,7 @@
 ### Languages
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=9A4F96)](https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=c%23&sort=)
 [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=java&sort=)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FED54A)]([https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=java&sort=](https://github.com/ArthurSMA?tab=repositories))
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FED54A)]([https://github.com/ArthurSMA?tab=repositories&q=&type=public&language=java&sort=]([https://github.com/ArthurSMA?tab=repositories](https://github.com/ArthurSMA?tab=repositories&q=&type=&language=javascript&sort=)))
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)]([https://github.com/ArthurSMA](https://github.com/ArthurSMA?tab=repositories))
